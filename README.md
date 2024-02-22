@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Splinterman967
-- 👀 I’m interested in Android mobile app development with Java
-- 🌱 I’m currently learning Android Studio
-- 💞️ I’m looking to collaborate on Android studio perojects
+- 👋 Hi, I am a passionte game developer who tries to rech his dreams.
+- 👀 I’m interested in GAMES!
+- 🌱 I’m currently learning Unity and everything about games.
+- 💞️ I’m looking to collaborate on Unity projects.
 - 📫 How to reach me mehmetalid967@gmail.com
 
 <!---
